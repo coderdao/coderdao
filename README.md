@@ -1,4 +1,4 @@
-###  :man_technologist:  [锐玩道](coderdao.github.io)，[Blog](https://coderdao.github.io/)
+###  :man_technologist:  [锐玩道](https://coderdao.github.io/)，[Blog|掘金社区](https://juejin.cn/user/2242659450112455)
 
 👋 Hi, I'm Coderdao,a passionate self-taught backend developer from China 🚀. 
 

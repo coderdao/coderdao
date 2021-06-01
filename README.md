@@ -15,6 +15,7 @@
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [锐玩道](mailto:abo2013@foxmail.com)
 
+![公众号](https://coderdao.github.io/img/site/vxgonghao.jpg)
 
 ### Languages and Tools
 
